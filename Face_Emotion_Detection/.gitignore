@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Model and Data (Optional: keep if you want to track them, ignore if large)
+# models/
+# dataset/
+
+# IDE
+.vscode/
+.idea/
